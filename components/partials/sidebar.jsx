@@ -4,7 +4,7 @@ import Image from "next/image";
 
 // Icons
 import { HugeiconsIcon } from "@hugeicons/react";
-import { AddCircleIcon, Agreement03Icon, ClipboardCheckIcon, ContentWritingIcon, DocumentValidationIcon, Home03Icon, HistoryIcon, TransactionHistoryIcon } from "@hugeicons/core-free-icons";
+import { AddCircleIcon, Agreement03Icon, ClipboardCheckIcon, Home03Icon, HistoryIcon } from "@hugeicons/core-free-icons";
 
 // Shadcn Library
 import { CollapsibleContent } from "../ui/collapsible";
